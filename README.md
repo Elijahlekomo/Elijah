@@ -2,9 +2,9 @@
 Web-Portfoilo
 🌐 [Live View](https://elijahlekomo.netlify.app/)   
 Built project with:   
- - JavaScript
  - HTML
  - CSS
+ - JavaScript 
 ## Screenshot of the project     
 🏠 __Home Page__    
 
