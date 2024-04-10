@@ -4,7 +4,7 @@ Web-Portfoilo
 Built project with:   
  - HTML
  - CSS
- - JavaScript 
+ - JavaScript
 ## Screenshot of the project     
 🏠 __Home Page__    
 
