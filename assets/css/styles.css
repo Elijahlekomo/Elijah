@@ -655,6 +655,10 @@ body.dark-theme {
   margin-bottom: 0.75rem;
 }
 
+.projects__image img{
+  height: 200px;
+}
+
 /* .projects__img {
   height: 640;
   width: 425;
